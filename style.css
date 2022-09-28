@@ -1,0 +1,14 @@
+body {
+    background-color: azure;
+    color: blue;
+}
+header {
+    text-align: center;
+    background-color: rgba(40, 92, 98, 0.478);
+}
+main {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+}
